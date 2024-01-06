@@ -1,0 +1,17 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0;
+  margin-bottom: 15%;
+}
+
+html {
+  min-height: 100vh;
+  position: relative;
+}
+
+.holder {
+  max-width: 960px;
+  margin: 0 auto;
+}
